@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Web and Mobile App Development**
 
-- 📫 How to reach me **hassanejaz773@gmail.com**
+- 💬 Ask me about **HTML,CSS,JavaScript**
 
-- ⚡ Fun fact **I Think i am Funny 😁**
+- 📫 How to reach me **hassanejaz773@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
