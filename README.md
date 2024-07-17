@@ -28,7 +28,7 @@
 </p>
 
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhassanraza25&show_icons=true&locale=en&layout=compact" alt="muhammadhassanraza25" /></p>
-
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhassanraza25&show_icons=true&locale=en&layout=compact" alt="muhammadhassanraza25" /></p> -->
+<a href="https://github.com/muhammadhassanraza25/github-readme-stats"><img alt="muhammadhassanraza25's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=muhammadhassanraza25&langs_count=8&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=FFA500&icon_color=000" height="192px"/></a>
 
 
