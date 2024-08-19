@@ -13,7 +13,7 @@
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
+- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Firebase**
 
 - 📫 How to reach me **hassanejaz773@gmail.com**
 
