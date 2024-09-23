@@ -17,7 +17,7 @@
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Front End Development (HTML, CSS, Tailwind, JavaScript, Firebase, React)**
 
 - 📫 How to reach me **hassanejaz773@gmail.com**
 
