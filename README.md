@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hassan Raza</h1>
+ <h1 align="center">Hi 👋, I'm Muhammad Hassan Raza</h1>
 <!-- <h3 align="center">A passionate front end developer from Pakistan</h3> -->
 
 <div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Front+End+Developer+;" alt="Typing SVG" /></div>
@@ -17,7 +17,7 @@
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
-- 💬 Ask me about **Front End Development (HTML, CSS, TailwindCSS, JavaScript, Firebase, ReactJS)**
+- 💬 Ask me about **Front End Development (HTML, CSS, Tailwind CSS, JavaScript, Firebase, ReactJS)**
 
 - 📫 How to reach me **hassanejaz773@gmail.com**
 
