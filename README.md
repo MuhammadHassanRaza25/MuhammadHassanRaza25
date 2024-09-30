@@ -13,7 +13,7 @@
 
 - 🔭 I'm currently working on **wonderful projects**
 
-- 🌱 I’m currently learning **Back End Development**
+- 🌱 I’m currently learning **Back End & App Development**
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
