@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhassanraza25&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhassanraza25" /> </p>
 
 
-- 🔭 I'm currently working on **Reactjs & Nextjs projects**
+- 🔭 I'm currently working on **Reactjs , Nextjs projects**
 
 - 🌱 I’m currently learning **Back End Development**
  
