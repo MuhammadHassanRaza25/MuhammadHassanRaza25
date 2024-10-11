@@ -11,13 +11,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhassanraza25&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhassanraza25" /> </p>
 
 
-- 🔭 I'm currently working on **ReactJS , NextJS Projects**
+- 🔭 I'm currently working on **React JS , Next JS Projects**
 
 - 🌱 I’m currently learning **Back End Development**
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
-- 💬 Ask me about **Front End Development (HTML, CSS, Tailwind CSS, JavaScript, Firebase, ReactJS, NextJS)**
+- 💬 Ask me about **Front End Development (HTML, CSS, Tailwind CSS, JavaScript, Firebase, React JS, Next JS)**
 
 - 📫 How to reach me **hassanejaz773@gmail.com**
 
