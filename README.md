@@ -6,7 +6,7 @@
 <br>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadhassanraza25" alt="muhammadhassanraza25" /></a> </p> -->
  
-<img align="right" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/011/153/370/small_2x/3d-web-development-illustration-png.png">
+<img align="right" width="400" src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhassanraza25&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhassanraza25" /> </p>
 
