@@ -3,8 +3,6 @@
 
 <div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Front+End+Developer+👨🏻‍💻;Problem+Solver+💡⚡" alt="Typing SVG" /></div>
 
- 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhassanraza25&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhassanraza25" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadhassanraza25" alt="muhammadhassanraza25" /></a> </p>
@@ -29,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align='left'>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vercel,tailwind,firebase,react,next" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vercel,tailwind,firebase,react,mui,next" />
 </p>
 
 <br>
