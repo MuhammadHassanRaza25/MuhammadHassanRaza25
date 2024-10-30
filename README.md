@@ -10,7 +10,7 @@
 <img align="right" width="400" src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg">
 <br>
 
-- 🔭 I'm currently working on **React JS , Next JS Projects**
+- 🔭 I'm currently working on **React JS, Next JS & MongoDB Projects**
 
 - 🌱 I’m currently learning **Back End Development**
  
