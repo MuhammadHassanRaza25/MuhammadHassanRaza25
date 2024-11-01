@@ -19,8 +19,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadhassanraza25" alt="muhammadhassanraza25" /></a> </p>
 
-<img align="right" width="400" src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg">
-<br>
+<!-- <img align="right" width="400" src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg"> -->
+
 
 - 🔭 I'm currently working on **React JS, Next JS & MongoDB Projects**
 
