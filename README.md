@@ -5,7 +5,7 @@
 </h3>
 
 <!-- <h1 align="center">Hi 👋, I'm Muhammad Hassan Raza</h1> -->
-<h3 align="center">I'm a Full Stack Developer building cutting-edge websites that enhance user experiences. I blend technology and creativity to deliver innovative solutions.</h3>
+<!-- <h3 align="center">I'm a Full Stack Developer building cutting-edge websites that enhance user experiences. I blend technology and creativity to deliver innovative solutions.</h3> -->
 
 <h3 align="center">
  
@@ -21,6 +21,7 @@
 
 <!-- <img align="right" width="400" src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg"> -->
 
+<h2 align="left">About Me:</h2>
 
 - 🔭 I'm currently working on **React JS, Next JS & MongoDB Projects**
 
@@ -32,12 +33,15 @@
 
 - 📫 How to reach me **hassanejaz773@gmail.com**
 
+
 <h2 align="left">Connect with me:</h2>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-hassan-raza-aab5402b7/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
+
 <p align='left'>
   <img src="https://skillicons.dev/icons?i=react,mui,next,firebase,js,mongodb,postman,git,github,vercel,netlify,bootstrap,tailwind,css,html" />
 </p>
