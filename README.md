@@ -5,7 +5,7 @@
 </h3>
 
 <!-- <h1 align="center">Hi 👋, I'm Muhammad Hassan Raza</h1> -->
-<h3 align="center">I'm a Full Stack Developer building cutting-edge websites that enhance user experiences. I blend technology and creativity to deliver innovative solutions.</h3> 
+<!-- <h3 align="center">I'm a Full Stack Developer building cutting-edge websites that enhance user experiences. I blend technology and creativity to deliver innovative solutions.</h3> -->
 
 <h3 align="center">
  
