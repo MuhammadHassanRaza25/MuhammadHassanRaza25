@@ -56,15 +56,17 @@
 
 <h2 align="left">Github Stats:</h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhassanraza25&show_icons=true&locale=en&layout=compact" alt="muhammadhassanraza25" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhassanraza25&show_icons=true&locale=en&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=0000FF&icon_color=000" alt="muhammadhassanraza25" height="192px"/>
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammadhassanraza25&show_icons=true&locale=en" alt="muhammadhassanraza25" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammadhassanraza25&show_icons=true&locale=en&theme=bg_color=bg_color=FFFFF&title_color=0000FF&icon_color=000" alt="muhammadhassanraza25" />
+</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassanraza25"/></p
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassanraza25"/></p>
 
 <p>
- 
- [![Muhammad Hassan Raza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadhassanraza25&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ [![Muhammad Hassan Raza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadhassanraza25&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
 
