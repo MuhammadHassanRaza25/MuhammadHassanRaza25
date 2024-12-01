@@ -27,7 +27,7 @@
 
 - 🔭 I'm currently working on **React JS, Next JS & MongoDB Projects**
 
-- 🌱 I’m currently learning **Back End Development**
+- 🌱 I’m currently learning **Mobile App Development**
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
