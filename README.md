@@ -45,7 +45,7 @@
 <h2 align="left">Languages and Tools:</h2>
 
 <p align='left'>
-  <img src="https://skillicons.dev/icons?i=react,next,firebase,js,ts,redux,mongodb,postman,git,github,vercel,netlify,mui,bootstrap,tailwind,css,html" />
+  <img src="https://skillicons.dev/icons?i=react,next,firebase,js,ts,redux,mongodb,nodejs,expressjs,postman,git,github,vercel,netlify,mui,bootstrap,tailwind,css,html" />
 </p>
 
 
