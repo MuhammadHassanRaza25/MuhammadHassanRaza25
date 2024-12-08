@@ -25,7 +25,7 @@
 
 <h2 align="left">About Me:</h2>
 
-- 🔭 I'm currently working on **React JS, Next JS & MongoDB Projects**
+- 🔭 I'm currently working on **MERN Stack Projects**
 
 - 🌱 I’m currently learning **Back End Development**
  
