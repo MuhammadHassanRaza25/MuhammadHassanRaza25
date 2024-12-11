@@ -31,7 +31,7 @@
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, Firebase, React JS, Next JS**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, Firebase, React JS, Next JS, React Native**
 
 - 📫 How to reach me **hassanejaz773@gmail.com**
 
