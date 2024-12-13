@@ -4,16 +4,8 @@
 
 </h3>
 
- <h1 align="center">Hi 👋, I'm Muhammad Hassan Raza</h1>
+ <!-- <h1 align="center">Hi 👋, I'm Muhammad Hassan Raza</h1> -->
 <!-- <h3 align="center">I'm a Full Stack Developer building cutting-edge websites that enhance user experiences. I blend technology and creativity to deliver innovative solutions.</h3> -->
-
-<h3 align="left">
- 
-Hey, I'm Muhammad Hassan Raza, an experienced Web and Mobile Developer with over 1+ years of hands-on expertise. Proficient in JavaScript, TypeScript, Firebase, React.js, Next.js, MongoDB, and React Native, I specialize in building dynamic and scalable web and mobile applications. I'm passionate about delivering high-quality solutions that provide seamless user experiences.
-
-Let's connect and explore how my skills can bring your ideas to life!
-
-</h3>
 
 <!-- <div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+👨🏻‍💻;MERN+Stack+Developer+👨🏻‍💻;Problem+Solver+💡" alt="Typing SVG" /></div> -->
 
@@ -32,6 +24,14 @@ Let's connect and explore how my skills can bring your ideas to life!
 <!-- <img align="right" width="400" src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg"> -->
 
 <h2 align="left">About Me:</h2>
+
+<h3 align="left">
+ 
+Hey, I'm Muhammad Hassan Raza, an experienced Web and Mobile Developer with over 1+ years of hands-on expertise. Proficient in JavaScript, TypeScript, Firebase, React.js, Next.js, MongoDB, and React Native, I specialize in building dynamic and scalable web and mobile applications. I'm passionate about delivering high-quality solutions that provide seamless user experiences.
+
+Let's connect and explore how my skills can bring your ideas to life!
+
+</h3>
 
 - 🔭 I'm currently working on **MERN Stack Projects**
 
