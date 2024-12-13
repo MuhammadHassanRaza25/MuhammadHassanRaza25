@@ -5,11 +5,11 @@
 </h3>
 
  <h1 align="center">Hi 👋, I'm Muhammad Hassan Raza</h1>
-<h3 align="center">I'm a Full Stack Developer building cutting-edge websites that enhance user experiences. I blend technology and creativity to deliver innovative solutions.</h3> 
+<!-- <h3 align="center">I'm a Full Stack Developer building cutting-edge websites that enhance user experiences. I blend technology and creativity to deliver innovative solutions.</h3> -->
 
 <h3 align="left">
  
-Hey, I'm Muhammad Hassan Raza, an experienced Web and Mobile Developer with over 1 year of hands-on expertise. Proficient in JavaScript, TypeScript, Firebase, React.js, Next.js, MongoDB, and React Native, I specialize in building dynamic and scalable web and mobile applications. I'm passionate about delivering high-quality solutions that provide seamless user experiences.
+Hey, I'm Muhammad Hassan Raza, an experienced Web and Mobile Developer with over 1+ years of hands-on expertise. Proficient in JavaScript, TypeScript, Firebase, React.js, Next.js, MongoDB, and React Native, I specialize in building dynamic and scalable web and mobile applications. I'm passionate about delivering high-quality solutions that provide seamless user experiences.
 
 Let's connect and explore how my skills can bring your ideas to life!
 
