@@ -66,11 +66,11 @@ Let's connect and explore how my skills can bring your ideas to life!
 
 <h2 align="left">Github Stats:</h2>
 
-<p align="center">
+<h3 align="center">
  
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhassanraza25&theme=github)
  
- </p>
+ </h3>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassanraza25"/></p>
 
