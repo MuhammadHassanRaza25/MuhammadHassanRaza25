@@ -75,11 +75,11 @@ Let's connect and explore how my skills can bring your ideas to life!
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhassanraza25&show_icons=true&locale=en&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=007cff&icon_color=000" alt="muhammadhassanraza25" height="192px"/>
 </p>
 
-<p align="center">
+<h3 align="center">
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhassanraza25&theme=vue&show_icons=true)
  
-</p>
+</h3>
 
 <h3 align="center">
  
