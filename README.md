@@ -66,6 +66,8 @@ Let's connect and explore how my skills can bring your ideas to life!
 
 <h2 align="left">Github Stats:</h2>
 
+<p align="center">![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhassanraza25&theme=github)</p>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassanraza25"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammadhassanraza25&show_icons=true&locale=en&theme=bg_color=bg_color=FFFFF&title_color=007cff&icon_color=000" alt="muhammadhassanraza25" />
