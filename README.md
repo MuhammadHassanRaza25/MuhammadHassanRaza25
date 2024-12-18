@@ -66,12 +66,6 @@ Let's connect and explore how my skills can bring your ideas to life!
 
 <h2 align="left">Github Stats:</h2>
 
-<h3 align="center">
- 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhassanraza25&theme=github)
- 
- </h3>
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassanraza25"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=muhammadhassanraza25&show_icons=true&locale=en&theme=bg_color=bg_color=FFFFF&title_color=007cff&icon_color=000" alt="muhammadhassanraza25" />
@@ -79,6 +73,12 @@ Let's connect and explore how my skills can bring your ideas to life!
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhassanraza25&show_icons=true&locale=en&layout=compact&theme=bg_color=bg_color=FFFFF&title_color=007cff&icon_color=000" alt="muhammadhassanraza25" height="192px"/>
 </p>
+
+<h3 align="center">
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhassanraza25&theme=github)
+ 
+ </h3>
 
 <p>
 
