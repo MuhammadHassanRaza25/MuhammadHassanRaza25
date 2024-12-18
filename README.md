@@ -83,8 +83,7 @@ Let's connect and explore how my skills can bring your ideas to life!
 
 <p>
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadhassanraza25&bg_color=ffffff&color=000000&line=adffa8&point=0ac220&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadhassanraza25&bg_color=ffffff&color=000000&line=94ea90&point=0ac220&&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <!-- <p>
