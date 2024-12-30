@@ -39,7 +39,7 @@ Let's connect and explore how my skills can bring your ideas to life!
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, Firebase, React JS, Next JS, React Native**
+- 💬 Ask me about **JavaScript, MongoDB, Express.js, React.js, Node.js, Firebase, Next JS, React Native**
 
 - 📫 How to reach me **hassanejaz773@gmail.com**
 
