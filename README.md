@@ -33,7 +33,7 @@ Let's connect and explore how my skills can bring your ideas to life!
 
 <h2 align="left">About Me:</h2>
 
-- 🔭 I'm currently working on **MERN Stack Projects**
+- 🔭 I'm currently working on **LMS for Saylani Masss I.T. Training**
 
 - 🌱 I’m currently learning **Back End Development**
  
