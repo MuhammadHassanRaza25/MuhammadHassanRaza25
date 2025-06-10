@@ -53,7 +53,7 @@ Let's connect and explore how my skills can bring your ideas to life!
 <h2 align="left">Languages and Tools:</h2>
 
 <p align='left'>
-  <img src="https://skillicons.dev/icons?i=react,next,firebase,js,ts,mongodb,nodejs,expressjs,redux,postman,git,github,vercel,netlify,mui,bootstrap,tailwind,css,html"/>
+  <img src="https://skillicons.dev/icons?i=vite,react,next,firebase,js,ts,mongodb,nodejs,expressjs,redux,postman,git,github,vercel,netlify,mui,bootstrap,tailwind,css,html"/>
 </p>
 
 
