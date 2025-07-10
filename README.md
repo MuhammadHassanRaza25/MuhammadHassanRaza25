@@ -13,7 +13,7 @@
  
 Hey, I'm Muhammad Hassan Raza, an experienced Web and Mobile Developer with over 1+ years of hands-on expertise. Proficient in JavaScript, TypeScript, Firebase, React.js, Next.js, MongoDB, and React Native, I specialize in building dynamic and scalable web and mobile applications. I'm passionate about delivering high-quality solutions that provide seamless user experiences.
 
-Let's connect and explore how my skills can bring your ideas to life!
+Let's connect and explore how my skills can bring your ideas to life!!
 
 </h3> -->
 
