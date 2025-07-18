@@ -88,9 +88,7 @@ Let's connect and explore how my skills can bring your ideas to life!!
 </p>
 
 <!-- <p>
-
  [![Muhammad Hassan Raza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadhassanraza25&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </p> -->
 
 
