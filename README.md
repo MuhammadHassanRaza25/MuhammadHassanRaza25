@@ -39,7 +39,7 @@ Let's connect and explore how my skills can bring your ideas to life!!
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
-- 💬 Ask me about **JavaScript, TypeScript, MongoDB, ReactJS, NextJS, NodeJS, ExpressJS, Firebase**
+- 💬 Ask me about **JavaScript, TypeScript, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, Firebase**
 
 - 📫 How to reach me **hassanejaz773@gmail.com**
 
