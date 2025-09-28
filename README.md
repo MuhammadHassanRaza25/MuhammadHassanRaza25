@@ -33,7 +33,7 @@ Let's connect and explore how my skills can bring your ideas to life!!
 
 <h2 align="left">About Me:</h2>
 
-- 🔭 I'm currently working on **Full Stack Projects**
+- 🔭 Currently developing **full-stack projects** using **React.js, Next.js, Node.js, Express.js** and **MongoDB**
 
 - 🌱 I’m currently learning **Back End Development**
  
