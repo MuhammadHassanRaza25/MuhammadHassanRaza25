@@ -35,7 +35,7 @@ Let's connect and explore how my skills can bring your ideas to life!!
 
 - 🔭 Currently developing **full-stack projects** using **React.js, Next.js, Node.js, Express.js** and **MongoDB**
 
-- 🌱 I’m currently learning **Back End Development**
+- 🌱 I’m currently learning **Backend Development**
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
