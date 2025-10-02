@@ -35,11 +35,11 @@ Let's connect and explore how my skills can bring your ideas to life!!
 
 - 🔭 Currently developing **full-stack projects** using **React.js, Next.js, Node.js, Express.js** and **MongoDB**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 Currently learning **Backend Development**
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
-- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, Firebase**
+- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, REST APIs, MongoDB and Firebase**
 
 - 📫 How to reach me **hassanejaz773@gmail.com**
 
