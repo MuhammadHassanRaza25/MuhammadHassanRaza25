@@ -81,11 +81,11 @@ Let's connect and explore how my skills can bring your ideas to life!!
  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhassanraza25&show_icons=true&locale=en&theme=bg_color=bg_color=FFFFF&title_color=007cff&icon_color=000" alt="muhammadhassanraza25" />
  </p> 
 
-<h3 align="center">
+<!-- <h3 align="center">
  
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhassanraza25&theme=github)
  
-</h3>
+</h3> -->
 
 <p>
 
