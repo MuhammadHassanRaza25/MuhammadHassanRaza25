@@ -7,17 +7,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Raza</h1> 
 <h3 align="center">I’m a Full-Stack Developer building future-ready, cutting-edge applications with a strong emphasis on user experience and modern design principles.</h3> 
 
-<!-- <div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=500&color=151CF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;MERN+Stack+Developer;Problem+Solver;" alt="Typing SVG" /></div> -->
-
-<!-- <h3 align="left">
- 
-Hey, I'm Muhammad Hassan Raza, an experienced Full Stack Developer with over 1+ year of hands-on expertise. Proficient in JavaScript, TypeScript, Firebase, React.js, Next.js, Node.js, Express.js and MongoDB, I specialize in building dynamic and scalable web and mobile applications. I'm passionate about delivering high-quality solutions that provide seamless user experiences.
-
-Let's connect and explore how my skills can bring your ideas to life!!
-
-</h3> -->
-
-
 <h3 align="center">
  
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=muhammadhassanraza25&data=repositories,stars,commits&theme=light&hide_border=true)](https://github.com/Jurredr/github-widgetbox)
@@ -28,8 +17,6 @@ Let's connect and explore how my skills can bring your ideas to life!!
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadhassanraza25&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhassanraza25" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadhassanraza25" alt="muhammadhassanraza25" /></a> </p>
-
-<!-- <img align="right" width="400" src="https://unblast.com/wp-content/uploads/2022/08/Programmer-Illustration.jpg"> -->
 
 <h2 align="left">About Me:</h2>
 
@@ -81,21 +68,11 @@ Let's connect and explore how my skills can bring your ideas to life!!
  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhassanraza25&show_icons=true&locale=en&theme=bg_color=bg_color=FFFFF&title_color=007cff&icon_color=000" alt="muhammadhassanraza25" />
  </p> 
 
-<!-- <h3 align="center">
- 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhassanraza25&theme=github)
- 
-</h3> -->
-
 <p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadhassanraza25&bg_color=ffffff&color=000000&line=94ea90&point=06b11a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
-
-<!-- <p>
- [![Muhammad Hassan Raza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadhassanraza25&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p> -->
 
 
 <h3 align="center">
