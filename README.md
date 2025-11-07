@@ -20,7 +20,7 @@
 
 <h2 align="left">About Me:</h2>
 
-- 🔭 Currently developing **full-stack projects** using **React.js, Next.js, Node.js, Express.js, JWT** and **MongoDB**
+- 🔭 Currently developing **full-stack projects** using **React.js, Next.js, Node.js, Express.js** and **MongoDB**
 
 - 🌱 Currently learning **Backend Development**
  
