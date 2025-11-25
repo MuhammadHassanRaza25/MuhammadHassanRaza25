@@ -26,7 +26,7 @@
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website](https://muhammadhassanraza25.github.io/My-Portfolio-Website/)
 
-- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, REST APIs, MongoDB and Firebase**
+- 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB and Firebase**
 
 - 📫 How to reach me **hassanejaz773@gmail.com**
 
