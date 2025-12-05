@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB and Firebase**
 
-- 📫 How to reach me **hassanejaz773@gmail.com**
+<!-- 📫 How to reach me **hassanejaz773@gmail.com** -->
 
 
 <h2 align="left">Connect with me:</h2>
