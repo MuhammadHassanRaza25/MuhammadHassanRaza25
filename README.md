@@ -22,7 +22,7 @@
 
 - 🔭 Currently developing **full-stack projects** using **React.js, Next.js, Node.js, Express.js** and **MongoDB**
 
-- 🌱 Currently learning **Backend Development**
+- 🌱 Currently learning **Modern Backend Development**
  
 - 👨‍💻 My Portfolio Website [My Portfolio Website]()
 
