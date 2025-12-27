@@ -40,14 +40,14 @@
 <h2 align="left">Languages and Tools:</h2>
 
 <p align='left'>
-  <img src="https://skillicons.dev/icons?i=react,next,js,ts,mongodb,nodejs,expressjs,firebase,redux,postman,git,github,vercel,netlify,mui,bootstrap,tailwind,css,html"/>
+  <img src="https://skillicons.dev/icons?i=react,next,remix,js,ts,mongodb,nodejs,expressjs,firebase,redux,postman,git,github,vercel,netlify,mui,bootstrap,tailwind,css,html"/>
 </p>
 
 
 <h3>
 
  <!-- Frontend Development -->
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-ff4154?style=for-the-badge&logo=react-query&logoColor=white) 
+ ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Remix](https://img.shields.io/badge/Remix-black?style=for-the-badge&logo=remix&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-ff4154?style=for-the-badge&logo=react-query&logoColor=white) 
 
 <!-- Frontend Libraries and Frameworks -->
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Shadcn](https://img.shields.io/badge/shadcn/ui-%2320232a.svg?style=for-the-badge) ![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
