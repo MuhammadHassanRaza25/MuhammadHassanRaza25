@@ -20,7 +20,7 @@
 
 <h2 align="left">About Me:</h2>
 
-- 🔭 Currently developing **full-stack projects** using **MERN Stack** and **Next.js**
+- 🔭 Currently developing **full-stack projects** using **MERN stack** and **Next.js**
 
 - 🌱 Currently learning **Modern Backend Development**
  
@@ -37,7 +37,7 @@
 <a href="https://www.linkedin.com/in/muhammad-hassanraza/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages, Tools and frameworks:</h2>
 
 <p align='left'>
   <img src="https://skillicons.dev/icons?i=react,next,remix,js,ts,mongodb,nodejs,expressjs,firebase,redux,postman,git,github,vercel,netlify,mui,bootstrap,tailwind,css,html"/>
