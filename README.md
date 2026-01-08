@@ -5,7 +5,7 @@
 </h3>
 
 <h1 align="center">Hi 👋, I'm Muhammad Hassan Raza</h1> 
-<h3 align="center">I’m a full-stack developer (MERN, Next.js) building scalable, high-performance and reliable web applications with a strong focus on user experience and modern development best practices.</h3> 
+<h3 align="center">I’m a full-stack developer (MERN, Next.js) building scalable, high-performance and reliable web apps with a strong focus on user experience and modern development best practices.</h3> 
 
 <h3 align="center">
  
