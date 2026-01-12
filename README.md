@@ -57,7 +57,7 @@
 </h3>
 
 
-<h2 align="left">Github Stats:</h2>
+<h2 align="left">GitHub Stats:</h2>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhassanraza25"/></p>
 
